@@ -19,7 +19,7 @@ spec:
         - containerPort: 80
         env:
         - name: TITLE
-          value: "Welcome to Azure Arc Webinar"
+          value: "Welcome to Azure Arc Webinar 20 Nov"
 ---
 apiVersion: v1
 kind: Service
